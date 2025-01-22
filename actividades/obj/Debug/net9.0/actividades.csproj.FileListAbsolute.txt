@@ -1,0 +1,15 @@
+C:\Users\Hogar\Desktop\Proyectos\actividades\obj\Debug\net9.0\actividades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hogar\Desktop\Proyectos\actividades\obj\Debug\net9.0\actividades.AssemblyInfoInputs.cache
+C:\Users\Hogar\Desktop\Proyectos\actividades\obj\Debug\net9.0\actividades.AssemblyInfo.cs
+C:\Users\Hogar\Desktop\Proyectos\actividades\obj\Debug\net9.0\actividades.csproj.CoreCompileInputs.cache
+C:\Users\Hogar\Desktop\Proyectos\actividades\obj\Debug\net9.0\actividades.sourcelink.json
+C:\Users\Hogar\Desktop\Proyectos\actividades\bin\Debug\net9.0\actividades.exe
+C:\Users\Hogar\Desktop\Proyectos\actividades\bin\Debug\net9.0\actividades.deps.json
+C:\Users\Hogar\Desktop\Proyectos\actividades\bin\Debug\net9.0\actividades.runtimeconfig.json
+C:\Users\Hogar\Desktop\Proyectos\actividades\bin\Debug\net9.0\actividades.dll
+C:\Users\Hogar\Desktop\Proyectos\actividades\bin\Debug\net9.0\actividades.pdb
+C:\Users\Hogar\Desktop\Proyectos\actividades\obj\Debug\net9.0\actividades.dll
+C:\Users\Hogar\Desktop\Proyectos\actividades\obj\Debug\net9.0\refint\actividades.dll
+C:\Users\Hogar\Desktop\Proyectos\actividades\obj\Debug\net9.0\actividades.pdb
+C:\Users\Hogar\Desktop\Proyectos\actividades\obj\Debug\net9.0\actividades.genruntimeconfig.cache
+C:\Users\Hogar\Desktop\Proyectos\actividades\obj\Debug\net9.0\ref\actividades.dll
